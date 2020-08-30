@@ -12,6 +12,6 @@
   ],
   "include": [
     "src/**/*.d.ts",
-    "src/app/product/*.ts", "src/app/products.ts"
+    "src/app/product/*.ts", "src/app/products.ts", "src/app/product/shared/*.ts"
   ]
 }
